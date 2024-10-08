@@ -9,5 +9,3 @@
 .externalNativeBuild
 
 # Project exclude paths
-/app/
-/gradle/

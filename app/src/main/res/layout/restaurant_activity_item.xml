@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/restaurantColor"
+    android:orientation="vertical"
+    tools:context="com.hsm.tourguideapp.RestaurantItemActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/cafeItemImageView"
+            android:layout_width="match_parent"
+            android:layout_height="200dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/lineLength"
+            android:layout_margin="@dimen/marginComponents"
+            android:background="@color/restaurantLineColor" />
+
+        <TextView
+            android:id="@+id/cafeItemNameTextView"
+            style="@style/textTitleStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/marginItems"
+            android:gravity="center" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/textSubtitleStyle"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/marginItems"
+                    android:layout_weight="1"
+                    android:text="@string/addressText" />
+
+                <TextView
+                    android:id="@+id/cafeItemAddressTextView"
+                    style="@style/textSubtitleItemValueStyle"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/marginItems"
+                    android:layout_weight="1"
+                    android:text="" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/textSubtitleStyle"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/marginItems"
+                    android:layout_weight="1"
+                    android:text="@string/phoneText" />
+
+                <TextView
+                    android:id="@+id/cafeItemPhoneTextView"
+                    style="@style/textSubtitleItemValueStyle"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="@dimen/marginItems"
+                    android:layout_weight="1" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/marginItems"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/cafeItemCallPhoneButton"
+                style="@style/buttonStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/callNowText" />
+
+            <Button
+                android:id="@+id/cafeItemViewMapButton"
+                style="@style/buttonStyle"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/viewMapText" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

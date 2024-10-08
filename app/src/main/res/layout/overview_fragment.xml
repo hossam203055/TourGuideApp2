@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageButton"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:layout_margin="@dimen/marginComponents"
+            android:scaleType="fitXY"
+            app:srcCompat="@drawable/downtown" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/lineLength"
+            android:layout_margin="@dimen/marginComponents"
+            android:background="@color/lineColor" />
+
+        <TextView
+            android:id="@+id/textViewFragment1"
+            style="@style/textTitleStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/marginComponents"
+            android:gravity="left"
+            android:text="@string/historyTitleText" />
+
+        <View
+            android:layout_width="100dp"
+            android:layout_height="@dimen/lineLength"
+            android:layout_margin="@dimen/marginComponents"
+            android:background="@color/lineColor" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/marginComponents"
+            android:gravity="left"
+            android:text="@string/historyTitleTextContent"
+            android:textSize="@dimen/textSize" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/lineLength"
+            android:layout_margin="@dimen/marginComponents"
+            android:background="@color/lineColor" />
+
+        <TextView
+            style="@style/textTitleStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/marginComponents"
+            android:gravity="left"
+            android:text="@string/downtownLandmarksTitleText" />
+
+        <View
+            android:layout_width="270dp"
+            android:layout_height="@dimen/lineLength"
+            android:layout_margin="@dimen/marginComponents"
+            android:background="@color/lineColor" />
+
+        <TextView
+            style="@style/textSubtitleStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/marginComponents"
+            android:gravity="left"
+            android:text="@string/groppiSubtiteText" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/marginComponents"
+            android:gravity="left"
+            android:text="@string/groppiSubtiteTextContent"
+            android:textSize="@dimen/textSize" />
+
+        <TextView
+            style="@style/textSubtitleStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/marginComponents"
+            android:gravity="left"
+            android:text="@string/cafeRicheSubtitleText" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/marginComponents"
+            android:gravity="left"
+            android:text="@string/groppiSubtiteTextContent"
+            android:textSize="@dimen/textSize" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/lineLength"
+            android:layout_margin="@dimen/marginComponents"
+            android:background="@color/lineColor" />
+
+        <Button
+            android:id="@+id/showMoreInformationButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/marginComponents"
+            android:text="@string/showMoreInformationButton"
+            android:textAllCaps="false" />
+
+    </LinearLayout>
+</ScrollView>

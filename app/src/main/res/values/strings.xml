@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Downtown Egypt Guide</string>
+    <string name="overviewFragment">Overview</string>
+    <string name="hotelsFragment">Hotels</string>
+    <string name="restaurantsFragment">Restaurants</string>
+    <string name="cafesFragment">Cafes</string>
+    <string name="hospitalsFragment">Hospitals</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="grandHotelName">Grand Hotel</string>
+    <string name="grandHotelAddress">17, 26 July st, Al Azbakeyah, Downtown, Cairo Governorate</string>
+    <string name="ramsesHiltonName">Ramses Hilton</string>
+    <string name="ramsesHiltonAddress">1115 Nile Corniche, Sharkas, Cairo, Cairo Governorate</string>
+    <string name="hiltonCairoWorldTradeCenterResidencesName">Hilton Cairo World Trade Center Residences</string>
+    <string name="hiltonCairoWorldTradeCenterResidencesAddress">1191 Nile Corniche, Cairo, Cairo Governorate</string>
+    <string name="lotusHotelCairoName">Lotus Hotel Cairo</string>
+    <string name="lotusHotelCairoAddress">12 Talaat Harb st, Ismailia, Qasr an Nile, Cairo Governorate</string>
+    <string name="semiramisInterContinentalHotelName">Semiramis InterContinental Hotel</string>
+    <string name="semiramisInterContinentalHotelAddress">Nile Corniche, Qasr Ad Dobarah, Qasr an Nile, Cairo Governorate</string>
+    <string name="sunHotelCairoName">Sun Hotel Cairo</string>
+    <string name="sunHotelCairoAddress">2, Talaat Harb st, Cairo, Cairo Governorate</string>
+    <string name="grandRoyalHotelName">Grand Royal Hotel</string>
+    <string name="grandRoyalHotelAddress">Talaat Harb Square, No. 01, Downtown, Cairo Governorate</string>
+    <string name="cairoInnHotelName">Cairo Inn (Hotel)</string>
+    <string name="cairoInnHotelAddress">6 Talaat Harb Square, Downtown, Cairo Governorate</string>
+
+    <string name="kosharyAbouTarekName">Koshary Abou Tarek</string>
+    <string name="kosharyAbouTarekAddress">Champollion Rd, Marouf, Qasr an Nile, Cairo Governorate</string>
+    <string name="kFCName">KFC</string>
+    <string name="kFCAddress">42 Roshdy st, Downtown, Cairo Governorate</string>
+    <string name="tomAndBasalName">Tom And Basal</string>
+    <string name="tomAndBasalAddress">8 Talat Harb st, Qasr an Nile, Downtown, Cairo Governorate</string>
+    <string name="kazazName">Kazaz</string>
+    <string name="kazazAddress">Bab Al Louq, Abdin, Cairo Governorate</string>
+    <string name="pizzaHutName">Pizza Hut</string>
+    <string name="pizzaHutAddress">7 Street 79, Ad Dawawin, Abdeen, Cairo Governorate</string>
+    <string name="groppiName">@string/groppiSubtiteText</string>
+    <string name="groppiAddress">Down town, Ismailia, Qasr an Nile, Cairo Governorate</string>
+    <string name="mcDonaldsName">McDonald\'s</string>
+    <string name="mcDonaldsAddress">Ad Dawawin, Abdin, Cairo Governorate</string>
+
+    <string name="beanosName">Beano\'s</string>
+    <string name="beanosAddress">Mohammed Mahmoud st, Rahbet Abdin, Abdeen, Cairo Governorate</string>
+    <string name="cilantroName">Cilantro</string>
+    <string name="cilantroAddress">33 Mohammed Mahmoud st, Ad Dawawin, Abdeen, Cairo Governorate</string>
+    <string name="zahretAlBostanName">Zahret Al Bostan</string>
+    <string name="zahretAlBostanAddress">6 Al Bostan Al Seidi, Bab Al Louq, Abdeen, Cairo Governorate</string>
+    <string name="cafeCornicheName">Cafe Corniche</string>
+    <string name="cafeCornicheAddress">Corniche El Nil, Garden City, Cairo Governorate</string>
+    <string name="elHorreyaCafeAndBarName">El Horreya Cafe And Bar</string>
+    <string name="elHorreyaCafeAndBarAddress">2 Off Bab El Louq St., El Falaky Sq.، DOWNTOWN، Abdeen, Cairo Governorate</string>
+    <string name="elnadwaElthkafiaName">Elnadwa Elthkafia</string>
+    <string name="elnadwaElthkafiaAddress">35 Al Falki, Bab Al Louq, Abdeen, Cairo Governorate</string>
+    <string name="alAmericaineName">Al Americaine</string>
+    <string name="alAmericaineAddress">Maarouf, Qasr an Nile, Cairo Governorate</string>
+
+    <string name="alHelalHospitalName">Al Helal Hospital</string>
+    <string name="alHelalHospitalAddress">Sherif Basha, Al Fawalah, Abdeen, Cairo Governorate</string>
+    <string name="elGalaaHospitalName">El-Galaa Hospital</string>
+    <string name="elGalaaHospitalAddress">El-Galaa St, Al Qalayah, Boulaq, Cairo Governorate</string>
+    <string name="misrInternationalHospitalName">Misr International Hospital</string>
+    <string name="misrInternationalHospitalAddress">12 El Saraya St.، Ad Doqi, Giza, Giza Governorate</string>
+
+    <string name="historyTitleText">History</string>
+    <string name="historyTitleTextContent">Downtown Cairo was designed by prestigious French architects who were commissioned by Khedive Ismail during his visit to Paris. It was he who stressed the importance of European style urban planning in Cairo, to include broad, linear gridded streets, geometric harmony and modern European architectural style.\nIt was once home to the prosperous elite of late 19th and early 20th century Cairo. It is a relic of a bygone era — Egypt\'s Belle epoque — and demonstrates the vision for developing Egypt. Yet decades of neglect by the neighbourhood\'s landlords and tenants following the burning of most Cairo\'s buildings during the popular Cairo fire incident prior the 1952 Revolution led by Gamal Abdel Nasser, and the ensuing departure of the upper classes, have left the ornate splendor of its ornate edifices mired in decay. Lax enforcement of laws and regulations gave way to the entry of commercial establishments into the neighborhood, mostly with no regard to maintaining aesthetic harmony or preserving the historic buildings. Now, most of the historic buildings within the area got renovated by the ministry Of housing, utilities and urban development.</string>
+    <string name="downtownLandmarksTitleText">Downtown landmarks</string>
+    <string name="groppiSubtiteText">Groppi</string>
+    <string name="groppiSubtiteTextContent">Groppi is one of the first and most famous ice cream shop in Cairo, located in Talaat Harb Square. It was founded in 1909 by the Swiss Groppi family, survived the nationalization movement in the 1950s and 1960s, and was owned by the Groppi family until 1981 when it was bought by Abdul-Aziz Lokma.</string>
+    <string name="cafeRicheSubtitleText">Café Riche</string>
+    <string name="addressText">Address:</string>
+    <string name="costPerDayText">Cost Per Day:</string>
+    <string name="numStarsText">Num Stars:</string>
+    <string name="phoneText">Phone:</string>
+    <string name="callNowText">Call Now!</string>
+    <string name="viewMapText">View Map!</string>
+    <string name="notFoundAlert">Not found!</string>
+
+    <string name="hotelItemActivityName">This Hotel</string>
+    <string name="restaurantItemActivityName">This Restaurant</string>
+    <string name="hospitalItemActivityName">This Hospital</string>
+    <string name="cafeItemActivityName">This Cafe</string>
+
+    <string name="showMoreInformationButton">To show more information, click here!</string>
+</resources>
